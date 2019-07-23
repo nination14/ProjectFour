@@ -1,6 +1,6 @@
 /* Treehouse FSJS Techdegree
-* Project 4 - OOP Game App
-* Phrase.js */ //Creates a phrase class to handle the creation of phrases
+ * Project 4 - OOP Game App
+ * app.js */
 
 let game = new Game(); //Declaring my var 
 
